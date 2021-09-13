@@ -1,0 +1,10 @@
+WebTable
+	Table header
+		- Column names -->th(table head) --->4
+	Table body
+		-Row of values
+			-tr<1>.....tr<n> (table row)
+				-td<1>....td<n>  (table data)---> 4
+
+
+TDD --> Test Driven Development (code--Fail--Refactor--Pass)
